@@ -1,0 +1,17 @@
+#color {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(51, 87, 156, 0.3);
+}
+
+#color2 {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: #ff43de;
+}
+
+/*
+ez egy komment
+*/
