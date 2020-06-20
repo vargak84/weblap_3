@@ -32,12 +32,26 @@ font-size: 40px;}
     font-size: 30px;
 }
 
-p {
+.content {
     color: brown;
     font-size: 24px;
     font-family: "alpha_echo";
     text-align: justify;
     text-transform: uppercase;
+}
+
+.abraka {
+    color: darkorchid;
+    font-size: 32px;
+    text-align: justify;
+}
+.jockey {
+
+    font-weight: bold;
+}
+
+.img-div {
+background-color: darkturquoise;
 }
 
 img {
