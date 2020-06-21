@@ -12,6 +12,12 @@
     background-color: #ff43de;
 }
 
+html {
+    background-color: #c1c1c1;
+    background: url(../img/background.jpg) center;
+
+}
+
 /*
 ez egy komment
 */
